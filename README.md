@@ -4,4 +4,11 @@ The purpose of these PowerShell scripts is to be able to remotely collect foreni
 
 ## **WILL BE UPDATING THIS PAGE AND UPLOADING ALL SCRIPTS IN THE NEXT COMING WEEK. BE ON THE LOOKOUT**
 
+## Credits ##
+
+**Ebuka John Onyejegbu (Live Forensicator)**
+**DoD Agencies**
+
+##LICENSE##
+
 
